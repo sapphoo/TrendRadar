@@ -2,8 +2,8 @@ AI
 辅助
 +教育
 
-国内
-国外
+编程
+programming
 +AI
 
 google
